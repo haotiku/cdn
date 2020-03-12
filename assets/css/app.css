@@ -1414,7 +1414,7 @@ div.wpcf7-response-output {
 }
 
 .cs-header {
-    background: url(https://res.cloudinary.com/uisumo-com/image/upload/v1504072750/static-site-assets/Banner-UISUMO-02.jpg);
+    background: url(https://cdn.jsdelivr.net/gh/haotiku/cdn/img/Banner-UISUMO-02.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
